@@ -4,4 +4,3 @@
 * Python3 modules like:
   - requests
   - BeautifulSoup
-  - termcolor
